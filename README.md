@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aneruth Mohanasundaram</h1>
 <h3 align="center">Data Scientist based in Brussels, comfortable with Data Science Stack and Python.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneruth&label=Profile%20views&color=0e75b6&style=flat" alt="aneruth" /> </p>
-
 - 💬 Ask me about **Data Science and python**
 
 - 📫 How to reach me **ane1998@gmail.com**
